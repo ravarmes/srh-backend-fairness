@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    Sistema de Recomendação Híbrido
+    Serviço de Recomendação
 </h1>
 
 Serviço de recomendação utilizando a estrutura de **WebService RESTful**. 
